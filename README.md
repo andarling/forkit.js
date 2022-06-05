@@ -23,3 +23,4 @@ document.querySelector( '.forkit' ).addEventListener( 'forkit-close', function()
 MIT licensed
 
 Copyright (C) 2017 Hakim El Hattab, http://hakim.se
+Copyright (C) 2017 Hakim El Hattab, http://hakim.se
